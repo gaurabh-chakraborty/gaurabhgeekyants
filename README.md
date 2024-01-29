@@ -1,20 +1,20 @@
 <h2 align="center">Hi 👋, I'm Gaurabh Chakraborty</h2>
 <p align="center"> A Full-stack Dev/Test/SecOps/DevOps with a passion for building intuitive and innovative web applications. Always eager to learn and solve challenging problem. Collaborating on projects and contributing to open-source is a major part of my journey. Let's build something great together!"</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurabhgeekyants&label=Profile%20views&color=0e75b6&style=flat" alt="gaurabhgeekyants" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurabh-chakraborty/&label=Profile%20views&color=0e75b6&style=flat" alt="gaurabh-chakraborty" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurabhgeekyants" alt="gaurabhgeekyants" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurabh-chakraborty/" alt="gaurabh-chakraborty" /></a> </p>
 
 </br>
 
 👉 I’m currently working with some great minds.
-💻 All of my projects are available at [https://github.com/gaurabhgeekyants](https://github.com/gaurabhgeekyants)
+💻 All of my projects are available at [https://github.com/gaurabhgeekyants](https://github.comg/gaurabh-chakraborty/)
 💬 Ask me about **Passion for building intuitive & innovative web/mobile apps. Collaborating on projects & contributing to open source is a significant part of my journey.**
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurabhgeekyants&show_icons=true&locale=en&layout=compact" alt="gaurabhgeekyants" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurabhgeekyants&show_icons=true&locale=en" alt="gaurabhgeekyants" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurabh-chakraborty/&show_icons=true&locale=en&layout=compact" alt="gaurabhgeekyants" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurabh-chakraborty/&show_icons=true&locale=en" alt="gaurabh-chakraborty" /></p>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurabhgeekyants&" alt="gaurabhgeekyants" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurabh-chakraborty&" alt="gaurabh-chakraborty" /></p>
 </br>
 
 <h4 align="left">Languages and Tools:</h4>
